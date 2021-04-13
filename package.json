@@ -1,13 +1,23 @@
 {
   "name": "is-equal-four",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "一个npm包demo",
   "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["demo"],
+
+  "author": "hanhan9449<haannn@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanhan9449/is-equal-four.git"
+  },
+  "bugs": {
+    "email": "haannn@qq.com",
+    "url": "https://github.com/hanhan9449/is-equal-four/issues"
+  },
+  "homepage": "https://github.com/hanhan9449/is-equal-four",
   "license": "MIT",
   "devDependencies": {
     "jest": "^26.6.3"
